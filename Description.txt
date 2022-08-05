@@ -1,0 +1,3 @@
+With the use of "textblob" library in Python, we can easily create Machine Learning Models for the task of Spelling Corrections.
+
+Here we have created a list with full of wrong words.By using textblob we have correct those word. 
